@@ -1,0 +1,11 @@
+C:\Users\mylaz\source\repos\newb0t\newb0t\bin\Debug\netcoreapp2.1\newb0t.deps.json
+C:\Users\mylaz\source\repos\newb0t\newb0t\bin\Debug\netcoreapp2.1\newb0t.runtimeconfig.json
+C:\Users\mylaz\source\repos\newb0t\newb0t\bin\Debug\netcoreapp2.1\newb0t.runtimeconfig.dev.json
+C:\Users\mylaz\source\repos\newb0t\newb0t\bin\Debug\netcoreapp2.1\newb0t.dll
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.csprojAssemblyReference.cache
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.csproj.CoreCompileInputs.cache
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.AssemblyInfoInputs.cache
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.AssemblyInfo.cs
+C:\Users\mylaz\source\repos\newb0t\newb0t\bin\Debug\netcoreapp2.1\newb0t.pdb
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.dll
+C:\Users\mylaz\source\repos\newb0t\newb0t\obj\Debug\netcoreapp2.1\newb0t.pdb
